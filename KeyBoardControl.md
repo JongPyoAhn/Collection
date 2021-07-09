@@ -37,3 +37,4 @@ override func viewDidLoad() {
         inputTextField.resignFirstResponder()
     }
  ```
+## 시뮬레이터 상에서 키보드가 안올라올 때 Command + ↑ + k 누르면 올라온다.
